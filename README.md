@@ -4,9 +4,16 @@ I am Minho Jeong, 2nd grade in the [Dept. of Computer Science and Engineering, S
 
 Areas of interest are **data analysis** and **Artificial Intelligence**.
 
-[YOUTUBE](https://www.youtube.com/@miino418_03).
+**[I learn now](https://computer.seoultech.ac.kr/b_info/coursemap)**
+1. _Open Source Software_
+2. _Algorithms_
+3. _Database_
+4. _Basic AI_
+5. _Data Communication_
+6. _Linear Algebra_
 
-_std::cout << "Hello World!";_
+
+[YOUTUBE](https://www.youtube.com/@miino418_03).
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cecjmh)](https://solved.ac/cecjmh)
 
