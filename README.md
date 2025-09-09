@@ -1,6 +1,6 @@
 # miino418
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ㅡmiino418!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=miino418!&fontSize=90)
 
 I am Minho Jeong, 2nd grade in the [Dept. of Computer Science and Engineering, SEOULTECH](https://computer.seoultech.ac.kr/).
 
@@ -15,7 +15,6 @@ Areas of interest are **data analysis** and **Artificial Intelligence**.
 6. _Linear Algebra_
 
 
-[Solved.ac Profile]
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cecjmh)](https://solved.ac/cecjmh)
 
@@ -24,6 +23,6 @@ Areas of interest are **data analysis** and **Artificial Intelligence**.
 > It ain't over till it's over. _[Yogi Berra]_
 
 
-[YOUTUBE](https://www.youtube.com/@miino418_03).
+[▶️YOUTUBE▶️](https://www.youtube.com/@miino418_03).
 
 
