@@ -7,7 +7,7 @@ I am Minho Jeong, 2nd grade in the [Dept. of Computer Science and Engineering, S
 Areas of interest are **data analysis** and **Artificial Intelligence**.
 
 **[I learn now](https://computer.seoultech.ac.kr/b_info/coursemap)**
-1. _Open Source Software_
+1.  _Open Source Software_
 2. _Algorithms_
 3. _Database_
 4. _Basic AI_
