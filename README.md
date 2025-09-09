@@ -15,11 +15,15 @@ Areas of interest are **data analysis** and **Artificial Intelligence**.
 6. _Linear Algebra_
 
 
-[YOUTUBE](https://www.youtube.com/@miino418_03).
+[Solved.ac Profile]
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cecjmh)](https://solved.ac/cecjmh)
 
+
+
 > It ain't over till it's over. _[Yogi Berra]_
 
+
+[YOUTUBE](https://www.youtube.com/@miino418_03).
 
 
